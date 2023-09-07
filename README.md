@@ -1,6 +1,6 @@
 # Conversor Binário para Decimal
 
-Este é um projeto React que implementa um Conversor Binário para Decimal simples. Ele permite que os usuários ingressem números binários de até 8 dígitos e converte-os em seus equivalentes decimais. Se a entrada não for válida, o usuário receberá uma mensagem de erro.
+Este é um projeto NextJs que implementa um Conversor Binário para Decimal simples. Ele permite que os usuários ingressem números binários de até 8 dígitos e converte-os em seus equivalentes decimais. Se a entrada não for válida, o usuário receberá uma mensagem de erro.
 
 ## Funcionalidades
 
