@@ -26,6 +26,7 @@ const ConversorBinario = () => {
   }
 
   const handleConvertClick = () => {
+    setErrorMessage('');
     handleChange(inputValue);
     setInputValue('');
   }
